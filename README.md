@@ -34,3 +34,13 @@ The **Smart Medical System** is designed to streamline healthcare management by 
    ```bash
    git clone https://github.com/Aman-Kr09/Smart-Medicine-System.git
    cd Smart-Medicine-System
+
+2. **Install Dependencies:**
+   pip install -r requirements.txt
+   
+3. **Run the Application:**
+   python main.py
+
+🔗 Connect with Me
+💻 GitHub: Aman-Kr09
+📧 Email: your.email@example.com (replace with your actual email)
