@@ -36,9 +36,11 @@ The **Smart Medical System** is designed to streamline healthcare management by 
    cd Smart-Medicine-System
 
 2. **Install Dependencies:**
+   ```bash
    pip install -r requirements.txt
    
 3. **Run the Application:**
+   ```bash
    python main.py
 
 🔗 Connect with Me
