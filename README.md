@@ -45,4 +45,4 @@ The **Smart Medical System** is designed to streamline healthcare management by 
 
 🔗 Connect with Me
 💻 GitHub: Aman-Kr09
-📧 Email: your.email@example.com (replace with your actual email)
+📧 Email: amankumar09042005@gmail.com
